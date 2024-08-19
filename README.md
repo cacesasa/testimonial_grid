@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/cacesasa/testimonial_grid)
+- Live Site URL: [Github Pages](https://cacesasa.github.io/testimonial_grid/)
 
 ## My process
 My development process is to first set my HTML using semantic tags, then divide the page in a grid and sub-devide as need it either by using grid or flex. After that I start coding and them testing for any errors on my design.
